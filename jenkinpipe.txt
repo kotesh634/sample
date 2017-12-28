@@ -1,0 +1,4 @@
+tage 'build'
+//build
+stage 'test'
+//test
