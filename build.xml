@@ -1,5 +1,5 @@
 <?xml version="1.0" ?> 
-<project name="AntExample1" default="create" basedir=".\HelloWorld">
+<project name="AntExample1" default="create" basedir=".\build.xml">
 
 	<target name="create">
 			
