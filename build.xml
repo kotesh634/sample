@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<project name="AntExample1" default="create" basedir=".\HelloWorld">
+
+	<target name="create">
+			
+		<touch file="Readme.txt"/>
+		
+	</target>
+
+		
+</project>
